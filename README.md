@@ -44,3 +44,42 @@ Requirement Analysis plays a crucial role in the **Software Development Lifecycl
    A detailed Requirement Analysis provides a roadmap for the design and development phases. It ensures that the system's architecture and functionality align with the project's goals, resulting in a product that meets user needs and business objectives.
 
 By addressing these aspects, Requirement Analysis contributes to delivering high-quality software that satisfies both user expectations and business requirements.
+
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of critical activities that help define and refine the requirements for a successful software development project. Below are the five key activities:
+
+### 1. Requirement Gathering  
+- Collect initial requirements from stakeholders through techniques like:  
+  - **Interviews**: Direct discussions with stakeholders to understand their needs.  
+  - **Surveys/Questionnaires**: Collecting inputs from a larger audience.  
+  - **Workshops**: Collaborative sessions to brainstorm and gather detailed requirements.  
+  - **Observation**: Watching end-users in their environment to identify needs.  
+  - **Document Analysis**: Reviewing existing systems and documents for insights.  
+
+### 2. Requirement Elicitation  
+- Refine and elaborate on the gathered requirements using advanced techniques:  
+  - **Brainstorming**: Generating ideas with the stakeholders.  
+  - **Focus Groups**: In-depth discussions with selected participants.  
+  - **Prototyping**: Creating visual representations of the system for feedback.  
+
+### 3. Requirement Documentation  
+- Translate requirements into structured, clear documents for stakeholders and the development team:  
+  - **Requirement Specification Documents**: A detailed list of functional and non-functional requirements.  
+  - **User Stories**: Short descriptions of functionalities from the user's perspective.  
+  - **Use Cases**: Diagrams and descriptions showing user interactions with the system.  
+
+### 4. Requirement Analysis and Modeling  
+- Analyze and organize the requirements to ensure they align with project goals:  
+  - **Requirement Prioritization**: Rank requirements by their importance and impact.  
+  - **Feasibility Analysis**: Evaluate technical, financial, and time constraints.  
+  - **Modeling**: Use diagrams (e.g., data flow diagrams, entity-relationship diagrams) to visualize and understand requirements.  
+
+### 5. Requirement Validation  
+- Ensure requirements are accurate, complete, and meet project goals:  
+  - **Review and Approval**: Conduct reviews with stakeholders for validation.  
+  - **Acceptance Criteria**: Define conditions each requirement must meet to be accepted.  
+  - **Traceability**: Use matrices to track requirements through design, development, and testing.  
+
+These activities are essential for a thorough Requirement Analysis, ensuring the project is well-planned and aligned with stakeholder expectations.
