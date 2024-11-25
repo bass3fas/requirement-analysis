@@ -154,3 +154,35 @@ The diagram below represents the actors and use cases for a booking management s
 - **View Booking History**
 
 This diagram was created using a tool like Draw.io to visually represent how actors interact with the system.
+
+
+
+## Acceptance Criteria  
+
+### Importance of Acceptance Criteria  
+Acceptance criteria play a crucial role in Requirement Analysis by defining clear and measurable conditions that a feature or system must satisfy to be accepted by stakeholders. They help ensure alignment between the development team and business goals, improve clarity, and serve as a benchmark for testing and validation.  
+
+**Key Benefits:**  
+- **Clarity and Communication:** Ensures all stakeholders understand the expected outcomes of a feature.  
+- **Quality Assurance:** Acts as a standard for testing to confirm that the feature meets user requirements.  
+- **Scope Management:** Prevents scope creep by clearly defining the boundaries of the feature.  
+
+---
+
+### Example: Acceptance Criteria for the Checkout Feature  
+**Feature:** Checkout for Booking Management System  
+
+**Acceptance Criteria:**  
+1. Users must be able to select a property and available dates.  
+2. The system must validate the selected dates and check property availability.  
+3. Users must be able to provide payment details and complete the booking process.  
+4. The system should display a confirmation message after successful payment.  
+5. An email receipt with booking details must be sent to the user within 2 minutes of payment completion.  
+
+**Testing the Feature:**  
+- Test cases should verify functionality, such as validation of payment details, handling of unavailability, and email receipt generation.  
+- Non-functional aspects like system response time (email receipt within 2 minutes) must also be validated.  
+
+---
+
+Acceptance criteria act as a shared understanding of what the feature must achieve, guiding both development and quality assurance efforts.
