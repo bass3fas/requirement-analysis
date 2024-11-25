@@ -83,3 +83,40 @@ Requirement Analysis involves a series of critical activities that help define a
   - **Traceability**: Use matrices to track requirements through design, development, and testing.  
 
 These activities are essential for a thorough Requirement Analysis, ensuring the project is well-planned and aligned with stakeholder expectations.
+
+
+## Types of Requirements
+
+In Requirement Analysis, understanding the types of requirements is essential to define what the system should do and how it should perform. These requirements are classified into **Functional Requirements** and **Non-functional Requirements**.
+
+### 1. Functional Requirements  
+Functional requirements specify the core operations and functionalities the system must perform to meet user needs.
+
+#### Definition:  
+They describe **what the system should do**, focusing on features and behaviors.
+
+#### Examples for Booking Management System:  
+- **Search Properties**: Users should be able to search for properties based on criteria like location, price, and availability.  
+- **User Registration**: New users should be able to create accounts by providing personal details and login credentials.  
+- **Property Listings**: Display property details with images, descriptions, and pricing information.  
+- **Booking System**: Allow users to select dates, confirm bookings, and receive booking confirmations.  
+- **User Authentication**: Enable secure login and registration for users.  
+
+---
+
+### 2. Non-functional Requirements  
+Non-functional requirements define the quality attributes of the system, such as performance, usability, and security.
+
+#### Definition:  
+They describe **how the system should perform**, focusing on operational and user experience aspects.
+
+#### Examples for Booking Management System:  
+- **Performance**: The system should load pages within 2 seconds and handle up to 1000 concurrent users.  
+- **Security**: Implement secure login, encrypt user data, and prevent vulnerabilities like SQL injection.  
+- **Scalability**: Support horizontal scaling to manage increased traffic and user demand.  
+- **Usability**: Ensure an intuitive and user-friendly interface for effortless navigation.  
+- **Reliability**: Maintain 99.9% system uptime and ensure rapid recovery from failures.  
+
+---
+
+By addressing both functional and non-functional requirements, the system can meet user needs while delivering a high-quality and reliable experience.
