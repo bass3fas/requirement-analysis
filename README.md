@@ -120,3 +120,37 @@ They describe **how the system should perform**, focusing on operational and use
 ---
 
 By addressing both functional and non-functional requirements, the system can meet user needs while delivering a high-quality and reliable experience.
+
+
+
+## Use Case Diagrams
+
+### What are Use Case Diagrams?  
+Use case diagrams are visual representations of how users (actors) interact with a system to achieve specific goals. They outline the system's functionalities and the relationships between users and the system, making it easier to understand user requirements and interactions.
+
+### Benefits of Use Case Diagrams  
+- **Clear Visualization**: Provide a concise view of the system's functionalities and their relationships with users.  
+- **Requirement Organization**: Help structure and prioritize requirements based on user interactions.  
+- **Stakeholder Communication**: Facilitate discussions between developers, stakeholders, and end-users for better alignment.  
+- **Error Identification**: Aid in spotting gaps or errors in requirements during early stages.  
+
+### Use Case Diagram for the Booking System  
+The diagram below represents the actors and use cases for a booking management system:
+
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
+
+#### Actors:  
+- **Guest User**: Can search properties and view details.  
+- **Registered User**: Can perform all guest actions and book properties, manage bookings, and view booking history.  
+- **Admin**: Can manage property listings, view all bookings, and handle user accounts.
+
+#### Use Cases:  
+- **Search Properties**  
+- **View Property Details**  
+- **Register/Login**  
+- **Book Property**  
+- **Manage Bookings**  
+- **Manage Property Listings**  
+- **View Booking History**
+
+This diagram was created using a tool like Draw.io to visually represent how actors interact with the system.
